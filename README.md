@@ -7,8 +7,8 @@
 - 🚴‍♂️ Не брезгаю спортом.
 
 ### Connect with me:
-
-[<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram][<img align="left" alt="Egor Burunkov | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+⚡ тел: +79224630303
+⚡ telegram: @motoovens
 
 <br />
 
@@ -32,7 +32,3 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeeGooL&show_icons=true" />
 </details>
-
-
-[telegram]: https://t.me/GooJoke
-[vk]: https://vk.com/goojoker
